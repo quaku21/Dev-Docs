@@ -218,7 +218,7 @@ sudo systemctl reload nginx
 
 ---
 
-## 🔒 Step 5: Set Up SSL with Certbot
+## 🔒 Step 9: Set Up SSL with Certbot
 
 ```bash
 sudo apt install certbot python3-certbot-nginx
@@ -243,7 +243,7 @@ sudo systemctl start certbot.timer
 
 ---
 
-## Step 9: Debugging & Gotchas
+## Step 10: Debugging & Gotchas
 
 ### Check if n8n is running
 
